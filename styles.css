@@ -145,3 +145,9 @@ nav ul li a:hover {
     background: #4497FF;
 }
 
+.menu-btn div, .back-btn div {
+    background-color: white;
+    height: 3px;
+    width: 16px;
+    margin-top: 2px;
+}
